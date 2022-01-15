@@ -8,7 +8,7 @@
 //                                   __/ |                            | |                                                   
 //                                  |___/                             |_|                                                   
 // ⚠️ NOTICES:
-// ⚠️ The Discord.jsh docs can be found here: https://jsh.trtle.xyz/#/
+// ⚠️ The Discord.jsh docs can be found here: ~https://jsh.trtle.xyz/#/~ or https://jsh.slashr.xyz/#/
 // ⚠️ The Discord.js docs can be found here: https://discord.js.org/#/docs
 
 //Import all modules
