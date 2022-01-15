@@ -6,13 +6,14 @@ This is my first bot template for new coders using Discord.js v13 & node.js v16!
 - Discord bot. You can create one [here](https://discord.com/developers/applications).
 
 # 💾 Setting Up
-1. Fork this repo
-2. Clone your fork
-3. Edit the `config.json` & optionally the `config.js` file
-4. Remove the `#` on line `5` in `.gitignore`
-5. Run `npm install` 
-6. Code your heart away! 💖
-7. You can start the bot with `node index.js` or you can run it with [VS Code](https://code.visualstudio.com/) <kbd>F5</kbd> ✨
+1. Do not fork this repo use the "Use Template" button
+2. Fill out the fields/text
+3. Clone your repo
+4. Edit the `config.json` & optionally the `config.js` file
+5. Remove the `#` on line `5` in `.gitignore`
+6. Run `npm install` 
+7. Code your heart away! 💖
+8. You can start the bot with `node index.js` or you can run it with [VS Code](https://code.visualstudio.com/) <kbd>F5</kbd> ✨
 
 # 🪄 Features
 - Slash Commands
